@@ -3,7 +3,7 @@
     "description": "MPF Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Go", "R", "PHP"
     ],
     "filePatterns": [
         "package.json$",
