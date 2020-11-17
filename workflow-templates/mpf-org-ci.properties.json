@@ -1,7 +1,7 @@
 {
     "name": "MPF Organization Workflow",
     "description": "MPF Organization CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "webpack",
     "categories": [
         "Go", "R", "PHP"
     ],
